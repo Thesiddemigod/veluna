@@ -13,7 +13,12 @@ async function Home({
   searchParams: { [key: string]: string | undefined };
 }) {
   const user = await currentUser();
-  if (!user) return null;
+  
+  // Redirect if the user is not signed in
+  if (!user) {
+    redirect("/sign-in");
+    return null; // Ensure function exits after redirect
+  }
 
   const userInfo = await fetchUser(user.id);
   if (!userInfo?.onboarded) redirect("/onboarding");
