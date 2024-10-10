@@ -6,10 +6,10 @@ import AccountProfile from "@/components/forms/AccountProfile";
 
 async function Page() {
   const user = await currentUser();
-  if (!user) return null; // to avoid typescript warnings
+  if (!user) redirect("/sign-in"); // Redirect to sign-in if user is not authenticated
 
   const userInfo = await fetchUser(user.id);
-  if (userInfo?.onboarded) redirect("/");
+  if (userInfo?.onboarded) redirect("/"); // Redirect if user is already onboarded
 
   const userData = {
     id: user.id,
