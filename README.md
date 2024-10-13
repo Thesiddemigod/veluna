@@ -1,6 +1,3 @@
-# Creating a README.md file for the Veluna project with necessary changes as per the user's request
-
-readme_content = """
 # Veluna - A Threads-Based Community Platform
 
 Veluna is a full-stack web application designed to foster community discussions through threaded conversations. Developed as part of my personal full-stack learning journey, Veluna focuses on bringing a seamless user experience for engaging with threaded discussions, allowing for deep interaction within communities.
