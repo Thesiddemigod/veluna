@@ -41,12 +41,16 @@
 ## 🛠️ Tech Stack
 
 - **Next.js** - A powerful framework for server-side rendering and static site generation.
-- **MongoDB** - A flexible, document-based NoSQL database.
 - **Node.js** - The JavaScript runtime powering the backend.
+- **MongoDB** - A flexible, document-based NoSQL database.
+- **Shadcn UI** - A component library for building beautiful UIs.
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development.
 - **Clerk** - Authentication system for secure user management.
 - **TypeScript** - Strictly typed JavaScript ensuring better code reliability.
 - **Zod** - TypeScript-first schema validation.
+- **React Hook Form** - For managing form state and validation efficiently.
+- **Webhooks** - For real-time updates and event-driven architecture.
+- **Serverless APIs** - Efficient handling of API requests without server management.
 
 ---
 
