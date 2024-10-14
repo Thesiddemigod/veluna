@@ -1,6 +1,6 @@
 content = '''
 <div align="center">
-  <img src="https://your-image-url-here.com/logo" alt="Veluna Logo" width="150" height="150"/>
+  <img src="/public/veluna.svg" alt="Veluna Logo" width="150" height="150"/>
   <h1>Veluna</h1>
   <p>A modern, threads-based platform for building vibrant online communities.</p>
   <br />
