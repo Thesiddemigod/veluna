@@ -1,6 +1,8 @@
 <div align="center">
   <br />
+  <a href="https://veluna.vercel.app" target="_blank">
   <img src="/public/veluna.png" alt="Veluna Logo"/>
+  </a>
   <h1>Veluna</h1>
   <p>A modern, threads-based platform for building vibrant online communities.</p>
   <br />
