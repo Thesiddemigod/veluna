@@ -31,12 +31,26 @@
 
 ## 🚀 Features
 
-- **Thread Creation & Commenting**: Start conversations and contribute to threads with ease.
-- **Community Building**: Create or join communities based on your interests.
-- **User-Friendly Interface**: Clean, intuitive design with real-time interactions.
-- **Search Functionality**: Easily search for threads, users, and communities.
-- **Notification System**: Stay updated with new comments and interactions on your threads.
-- **Profile Customization**: Personalize your profile and showcase your contributions.
+- **Thread Creation & Commenting**: Start conversations and contribute to threads effortlessly with an intuitive commenting system that supports nested discussions.
+- **Community Building**: Create or join communities based on your interests, with easy member management and the ability to invite others via customizable template emails.
+- **Admin-Specific Threads**: Enable community admins to create exclusive threads for their groups.
+- **User-Friendly Interface**: Enjoy a clean, engaging design with real-time interactions, ensuring a seamless user experience.
+- **Search Functionality**: Easily search for threads, users, and communities with pagination for streamlined exploration.
+- **Community Profiles**: Access profiles that display community threads and member information for comprehensive insights.
+- **Notification System**: Stay updated with notifications on your activity page for new comments and interactions on your threads.
+- **Profile Customization**: Personalize your profile to showcase your contributions and manage your settings efficiently.
+- **Visually Appealing Home Page**: Explore a home page that highlights the latest threads, enhancing user engagement.
+- **Figma Design Implementation**: Benefit from pixel-perfect designs transformed from Figma into a fully functional application.
+- **Blazing-Fast Performance**: Experience optimal performance and instantaneous page switching for a fluid interaction.
+- **Server-Side Rendering**: Leverage Next.js for improved performance and SEO benefits through server-side rendering.
+- **MongoDB with Complex Schemas**: Handle complex data structures and relationships efficiently using MongoDB.
+- **File Uploads with UploadThing**: Seamlessly upload files for sharing within the application.
+- **Real-Time Events Listening**: Stay informed with real-time updates through webhooks.
+- **Middleware and API Actions**: Implement robust security measures through middleware, API actions, and authorization.
+- **Data Validation with Zod**: Ensure data integrity with TypeScript-first schema validation using Zod.
+- **Form Management with React Hook Form**: Simplify user input with efficient form management capabilities.
+
+...and many more, including a focus on code architecture and reusability!
 
 ---
 
