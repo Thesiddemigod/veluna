@@ -1,19 +1,20 @@
-content = '''
 <div align="center">
+  <br />
   <img src="/public/veluna.png" alt="Veluna Logo"/>
   <h1>Veluna</h1>
   <p>A modern, threads-based platform for building vibrant online communities.</p>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js" alt="Next.js Badge" />
-    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB Badge" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS Badge" />
-    <img src="https://img.shields.io/badge/Clerk-purple?style=for-the-badge&logo=clerk" alt="Clerk Badge" />
-    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs" alt="Node.js Badge" />
-    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript Badge" />
-  </div>
-  
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=6C47FF" alt="clerk" />
+    <img src="https://img.shields.io/badge/-Shadcn_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
+    <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="zod" />
+    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+ </div>
+
   <br />
   <p>Empowering communities to thrive through conversations and connections.</p>
 </div>
@@ -60,5 +61,5 @@ content = '''
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-github-username/veluna.git
+git clone https://github.com/Thesiddemigod/veluna.git
 cd veluna
