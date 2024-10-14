@@ -54,9 +54,9 @@
 
 ### Prerequisites
 
-- **Git** installed
-- **Node.js** (v14 or higher) installed
-- **MongoDB** running locally or using a cloud provider
+- **[Git]**(https://git-scm.com/)
+- **[Node.js]**(https://nodejs.org/en)
+- **[npm]**(https://www.npmjs.com/) (Node Package Manager)
 
 ### Clone the Repository
 
