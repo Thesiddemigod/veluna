@@ -1,57 +1,64 @@
-# Veluna - A Threads-Based Community Platform
+content = '''
+<div align="center">
+  <img src="https://your-image-url-here.com/logo" alt="Veluna Logo" width="150" height="150"/>
+  <h1>Veluna</h1>
+  <p>A modern, threads-based platform for building vibrant online communities.</p>
+  <br />
 
-Veluna is a full-stack web application designed to foster community discussions through threaded conversations. Developed as part of my personal full-stack learning journey, Veluna focuses on bringing a seamless user experience for engaging with threaded discussions, allowing for deep interaction within communities.
+  <div>
+    <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js" alt="Next.js Badge" />
+    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB Badge" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS Badge" />
+    <img src="https://img.shields.io/badge/Clerk-purple?style=for-the-badge&logo=clerk" alt="Clerk Badge" />
+    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs" alt="Node.js Badge" />
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript Badge" />
+  </div>
+  
+  <br />
+  <p>Empowering communities to thrive through conversations and connections.</p>
+</div>
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-5. [License](#license)
+## 📜 Overview
 
-## 🤖 Introduction
+**Veluna** is a threads-based application that allows users to create, join, and participate in various communities. Designed with simplicity, speed, and interactivity in mind, it offers an intuitive user experience for Gen Z and Millennials.
 
-Veluna is built with the aim of mimicking the core functionality of threaded conversations popular in many social media platforms. As a college project and learning experience, Veluna aims to provide a simple yet effective platform for users to post, reply, and engage in threaded discussions within communities.
+> **Veluna** brings together modern tech, sleek design, and a community-first approach to foster genuine interactions and engagement.
 
-**Purpose**: Veluna serves as a showcase of my ability as a 3rd-year B.Tech CSE student specializing in full-stack web development. It features the use of modern web technologies, and demonstrates an understanding of authentication, server-side rendering, and efficient data handling in web applications.
+---
 
-## ⚙️ Tech Stack
+## 🚀 Features
 
-- **Next.js** - A popular React framework for server-side rendering and building optimized web applications.
-- **MongoDB with Mongoose** - NoSQL database for handling complex data models and relationships.
-- **Shadcn UI** - A simple and customizable component library used for building the UI.
-- **Tailwind CSS** - Utility-first CSS framework for responsive and optimized design.
-- **Clerk** - Authentication system for handling user sign-up, login, and profile management.
-- **TypeScript** - Strict typing for better maintainability and fewer bugs.
+- **Thread Creation & Commenting**: Start conversations and contribute to threads with ease.
+- **Community Building**: Create or join communities based on your interests.
+- **User-Friendly Interface**: Clean, intuitive design with real-time interactions.
+- **Search Functionality**: Easily search for threads, users, and communities.
+- **Notification System**: Stay updated with new comments and interactions on your threads.
+- **Profile Customization**: Personalize your profile and showcase your contributions.
 
-## 🔋 Features
+---
 
-Veluna is packed with features to enhance community engagement through threads-based discussions:
+## 🛠️ Tech Stack
 
-- **User Authentication**: Powered by Clerk, allowing users to sign up, log in, and manage profiles securely.
-- **Community Interaction**: Users can join or create communities and start engaging in threaded conversations.
-- **Thread Creation & Replies**: Create new threads, reply to existing threads, and manage discussions in a nested format.
-- **Profile Pages**: Each user has their own profile page to showcase their activity, including threads they've created.
-- **Search Functionality**: Easily search for threads, communities, or users for seamless interaction within the platform.
-- **Activity Notifications**: Keep users informed about recent interactions on their threads.
-- **Pagination for Threads and Users**: To ensure smooth performance even with a large number of threads or users.
+- **Next.js** - A powerful framework for server-side rendering and static site generation.
+- **MongoDB** - A flexible, document-based NoSQL database.
+- **Node.js** - The JavaScript runtime powering the backend.
+- **Tailwind CSS** - Utility-first CSS framework for rapid UI development.
+- **Clerk** - Authentication system for secure user management.
+- **TypeScript** - Strictly typed JavaScript ensuring better code reliability.
+- **Zod** - TypeScript-first schema validation.
 
-## 🤸 Quick Start
+---
 
-Follow these instructions to set up the project on your local machine.
+## 📦 Installation & Setup
 
 ### Prerequisites
 
-Make sure you have the following installed:
+- **Git** installed
+- **Node.js** (v14 or higher) installed
+- **MongoDB** running locally or using a cloud provider
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
-
-### Installation
-
-1. Clone the repository:
+### Clone the Repository
 
 ```bash
-git clone https://github.com/thesiddemigod/veluna.git
+git clone https://github.com/your-github-username/veluna.git
 cd veluna
